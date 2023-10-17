@@ -1,11 +1,11 @@
 package testing.n2ex1;
 
-import static org.hamcrest.Matchers.*;
 import static org.hamcrest.MatcherAssert.assertThat;
 import org.hamcrest.FeatureMatcher;
 import org.hamcrest.Matcher;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
+import static org.hamcrest.CoreMatchers.*;
 
 
 
